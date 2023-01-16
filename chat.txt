@@ -1,9 +1,21 @@
-WhatsappDev
+This is WhatsApp Code:
 
-1. chat functionality
-2. status functionality
+Author: Arul Prasath
 
-3. video call
+01. Profile Page Code
 
-4. audio call
+02. Chat Screen Code
 
+03. Last Seen Code
+
+04. Attachments (Images, Audio, Video) Code
+
+05. Hiding the last seen
+
+06. Adding the audio call feature
+
+07. Adding the video call feature
+
+08. Adding status so that user can play train games.
+
+09. Adding group feature to include 100 users.
