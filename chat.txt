@@ -19,3 +19,5 @@ Author: Arul Prasath
 08. Adding status so that user can play train games.
 
 09. Adding group feature to include 100 users.
+
+10. Adding Translate future
